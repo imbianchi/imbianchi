@@ -113,9 +113,9 @@ OS:<br>
 <br>
 <br>
 ## My activity
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iambianchi&theme=blue-green)](https://github.com/iambianchi/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imbianchi&theme=blue-green)](https://github.com/imbianchi/github-readme-stats)
 ## What i'm using
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iambianchi&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=imbianchi&theme=blue-green)
 <br>
 <br>
 Contact me:<br>
