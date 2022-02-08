@@ -3,7 +3,7 @@
 🧔‍♂️ Full Stack developer building path to DevOps, Linux specialist and Business Development Manager. Lifelong learning adept.<br>
 🎯 Goals: To evolve, to build and prosper.<br>
 👨‍🎓 Computer Systems Analyst student.<br>
-👨‍🏭 Currently working as Scrum Master & Tech Lead.<br>
+👨‍🏭 Currently working as Developer Tools Support Analyst at ExxonMobil • Pantheon Inc.<br>
 🥋 Looking for a mentor/sensei.<br>
 
 Sometimes drummer, sometimes gamer. Always a reader.<br>
@@ -11,7 +11,7 @@ AI & automation lover.<br>
 Building the habit to contribute to Open Source. I believe in free knowlegde.<br>
 Always searching new technologies and inner abilities to learn.<br>
 
-Philosophy: Clean code and good practices. Not just in professional life, but also in my personal life.<br>
+Philosophy: Clean code and good practices. Not just in professional life, but also in personal life.<br>
 Dream: Become a PhD and contribute in some positive way to the Brazilian education system.<br>
 
 Always trying to colaborate with Open Source. Share knowledge is the best path to follow.<br>
@@ -24,12 +24,10 @@ Hobbies:
 - Read;
 - Cinema/movies;
 - Barbecue;
-- Gym;
 
 Learning:
 - Play guitar;
 - Spanish;
-- Elixir;
 - Python;
 - Kubernetes;
 
@@ -112,6 +110,12 @@ OS:<br>
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) 
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) 
+<br>
+<br>
+## My activity
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iambianchi&theme=blue-green)](https://github.com/iambianchi/github-readme-stats)
+## What i'm using
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iambianchi&theme=blue-green)
 <br>
 <br>
 Contact me:<br>
