@@ -2,12 +2,12 @@
 
 🧔‍♂️ Full Stack developer building path to DevOps, Linux specialist and Business Development Manager. Lifelong learning adept.<br>
 🎯 Goals: To evolve, to build and prosper.<br>
-👨‍🎓 Computer Systems Analyst student.<br>
-👨‍🏭 Currently working as Developer Tools Support Analyst at ExxonMobil • Pantheon Inc.<br>
-🥋 Looking for a mentor/sensei.<br>
+👨‍🎓 Software Engineer student.<br>
+👨‍🏭 Currently working as Developer Tools Support Analyst at ExxonMobil<br>
+🥋 Searching for mentor/sensei.<br>
 
 Sometimes drummer, sometimes gamer. Always a reader.<br>
-AI & automation lover.<br>
+Automation lover.<br>
 Building the habit to contribute to Open Source. I believe in free knowlegde.<br>
 Always searching new technologies and inner abilities to learn.<br>
 
@@ -26,19 +26,16 @@ Hobbies:
 - Barbecue;
 
 Learning:
-- Play guitar;
-- Spanish;
+- French;
 - Python;
-- Kubernetes;
 
 Next things to learn:
 - Piano;
 - TDD;
-- German;
-- Azure;
 
 Always learning:
 - DevOps;
+- Agile;
 - Linux;
 - Programming Languages;
 
@@ -66,10 +63,8 @@ Techs that I already worked with:<br>
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
@@ -78,7 +73,6 @@ Techs that I already worked with:<br>
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
@@ -86,7 +80,6 @@ Techs that I already worked with:<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
@@ -97,7 +90,6 @@ Techs that I already worked with:<br>
 <br>
 <br>
 Languages: <br>
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -109,12 +101,11 @@ OS:<br>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) 
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) 
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) 
 <br>
 <br>
 ## My activity
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imbianchi&theme=blue-green)](https://github.com/imbianchi/github-readme-stats)
-## What i'm using
+## What I'm using
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=imbianchi&theme=blue-green)
 <br>
 <br>
