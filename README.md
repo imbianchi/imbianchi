@@ -8,13 +8,13 @@
 
 Sometimes drummer, sometimes gamer. Always a reader.<br>
 Automation lover.<br>
-Building the habit to contribute to Open Source. I believe in free knowlegde.<br>
+Building the habit to contribute to Open Source. I believe in free knowledge.<br>
 Always searching new technologies and inner abilities to learn.<br>
 
 Philosophy: Clean code and good practices. Not just in professional life, but also in personal life.<br>
 Dream: Become a PhD and contribute in some positive way to the Brazilian education system.<br>
 
-Always trying to colaborate with Open Source. Share knowledge is the best path to follow.<br>
+Always trying to collaborate with Open Source. Share knowledge is the best path to follow.<br>
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 <br>
 <br>
