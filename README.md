@@ -3,7 +3,6 @@
 🧔‍♂️ Full Stack developer building path to DevOps, Linux specialist and Business Development Manager. Lifelong learning adept.<br>
 🎯 Goals: To evolve, to build and prosper.<br>
 👨‍🎓 Software Engineer student.<br>
-👨‍🏭 Currently working as Developer Tools Support Analyst at ExxonMobil<br>
 🥋 Searching for mentor/sensei.<br>
 
 Sometimes drummer, sometimes gamer. Always a reader.<br>
