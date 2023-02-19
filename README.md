@@ -1,16 +1,16 @@
 ### About João Bianchi 🚀
 
-🧔‍♂️ Full Stack developer building path to DevOps, Linux specialist and Business Development Manager. Lifelong learning adept.<br>
+🧔‍♂️ Full Stack developer building path to Linux especialist and AI Scientist. Lifelong learning adept.<br>
 🎯 Goals: To evolve, to build and prosper.<br>
 👨‍🎓 Software Engineer student.<br>
-🥋 Searching for mentor/sensei.<br>
+&#8734; DevOps always. <br>
 
 Sometimes drummer, sometimes gamer. Always a reader.<br>
 Automation lover.<br>
 Building the habit to contribute to Open Source. I believe in free knowledge.<br>
 Always searching new technologies and inner abilities to learn.<br>
 
-Philosophy: Clean code and good practices. Not just in professional life, but also in personal life.<br>
+Philosophy: Clean code and good practices.<br>
 Dream: Become a PhD and contribute in some positive way to the Brazilian education system.<br>
 
 Always trying to collaborate with Open Source. Share knowledge is the best path to follow.<br>
@@ -18,32 +18,20 @@ Always trying to collaborate with Open Source. Share knowledge is the best path 
 <br>
 <br>
 Hobbies:
-- Play drums;
 - Games;
 - Read;
 - Cinema/movies;
-- Barbecue;
+- Barbecue with friends;
 
 Learning:
-- French;
 - Python;
-
-Next things to learn:
-- Piano;
-- TDD;
+- PyTorch;
+- Tensorflow
 
 Always learning:
 - DevOps;
-- Agile;
 - Linux;
 - Programming Languages;
-
-Reading:
-- The Mythical Man-Month: Essays on Software Engineering - F. Brooks.
-- The DevOps Handbook - G. Kim, J. Humble, P. Debois & J. Willis.
-- Refactoring - M. Fowler.
-- Working Effectively with Legacy Code - M. Feathers.
-- The Phoenix Project - G. Kim.
 
 <br>
 <br>
@@ -60,8 +48,7 @@ Techs that I already worked with:<br>
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -71,17 +58,14 @@ Techs that I already worked with:<br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)  
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) 
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
@@ -96,12 +80,6 @@ Languages: <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 <br>
 <br>
-OS:<br>
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) 
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) 
-<br>
-<br>
 ## My activity
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imbianchi&theme=blue-green)](https://github.com/imbianchi/github-readme-stats)
 ## What I'm using
@@ -114,8 +92,6 @@ Contact me:<br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaobianchilite@gmail.com)
 <br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpbianchi/)
-<br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joaobianchiii/)
 <br>
 
 <br>
