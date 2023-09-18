@@ -8,15 +8,14 @@
 Sometimes drummer, sometimes gamer. Always a reader.<br>
 Automation lover.<br>
 Building the habit to contribute to Open Source. A believer of free knowledge.<br>
+Know something that I can collaborate with? Email-me! 📧<br>
+![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue)<br>
+
 Always searching new technologies and inner abilities to learn.<br>
 
 Philosophy: Clean code and good practices.<br>
 Dream: Become a PhD and contribute in some positive way to the Brazilian education system.<br>
 
-Trying to collaborate with Open Source (know something that I can help with? Email-me! 📧).
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-<br>
-<br>
 Hobbies:
 - Coding;
 - Games;
