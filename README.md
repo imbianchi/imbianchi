@@ -54,7 +54,7 @@ Techs and frameworks that I worked with:
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![Magento](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=magento&logoColor=white) 
+![Magento](https://img.shields.io/badge/magento-%2320232a.svg?style=for-the-badge&logo=magento&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
