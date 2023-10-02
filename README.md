@@ -1,7 +1,7 @@
 ### About João Bianchi 🚀
 
-🧔‍♂️ Full Stack developer building path to Rust, Linux and Cyber Security especialist. Lifelong learning adept.<br>
-🎯 Goals: To evolve, to build and prosper.<br>
+🧔‍♂️ Full Stack developer building path to Rust, Linux and Cyber Security specialist. Lifelong learning adept.<br>
+🎯 Goals: To build and prosper.<br>
 👨‍🎓 Software Engineer student.<br>
 &#8734; DevOps always. <br>
 
