@@ -13,9 +13,6 @@ Know something that I can collaborate with? Email-me! 📧<br>
 
 Always searching new technologies and inner abilities to learn.<br>
 
-Philosophy: Clean code and good practices.<br>
-Dream: Become a PhD and contribute in some positive way to the Brazilian education system.<br>
-
 Hobbies:
 - Coding;
 - Games;
@@ -25,6 +22,8 @@ Hobbies:
 
 Learning:
 - Rust;
+- Solana
+- Solidity
 
 Always learning:
 - DevOps;
