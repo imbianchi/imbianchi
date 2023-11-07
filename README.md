@@ -3,13 +3,11 @@
 🧔‍♂️ Full Stack developer building path to Rust, Linux and Cyber Security specialist. Lifelong learning adept.<br>
 🎯 Goals: To build and prosper.<br>
 👨‍🎓 Software Engineer student.<br>
-&#8734; DevOps always. <br>
 
 Sometimes drummer, sometimes gamer. Always a reader.<br>
-Automation lover.<br>
 Building the habit to contribute to Open Source. A believer of free knowledge.<br>
 Know something that I can collaborate with? Email-me! 📧<br>
-![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue)<br>
+![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue)<br>\
 
 Always searching new technologies and inner abilities to learn.<br>
 
@@ -26,7 +24,6 @@ Learning:
 - Solidity
 
 Always learning:
-- DevOps;
 - Programming Languages;
 
 Reading:
