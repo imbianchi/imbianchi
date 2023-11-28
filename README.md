@@ -1,6 +1,6 @@
-### About João Bianchi 🚀
+### About João Paulo (JP) 🚀
 
-🧔‍♂️ Full Stack developer building path to Rust, Linux and Cyber Security specialist. Lifelong learning adept.<br>
+🧔‍♂️ Software developer building path to Blockchain, Linux & Cyber Security Specialist. Lifelong learning adept.<br>
 🎯 Goals: To build and prosper.<br>
 👨‍🎓 Software Engineer student.<br>
 
