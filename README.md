@@ -1,7 +1,6 @@
 ### About João Paulo (JP) 🚀
 
 🧔‍♂️ Software developer building path to Blockchain, Linux & Cyber Security Specialist. Lifelong learning adept.<br>
-🎯 Goals: To build and prosper.<br>
 👨‍🎓 Software Engineer student.<br>
 
 Sometimes drummer, sometimes gamer. Always a reader.<br>
@@ -9,7 +8,7 @@ Building the habit to contribute to Open Source. A believer of free knowledge.<b
 Know something that I can collaborate with? Email-me! 📧<br>
 ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue)<br>
 
-Always searching new technologies and inner abilities to learn.<br>
+ℹ️ [Check my CV](https://imbianchi.github.io/imbianchi.dev) !
 
 Hobbies:
 - Coding;
@@ -22,9 +21,6 @@ Learning:
 - Rust;
 - Solana
 - Solidity
-
-Always learning:
-- Programming Languages;
 
 Reading:
 - Programming Rust: Fast, Safe Systems Development, 2nd Edition - O'Reilly. - by Jim Blandy, Jason Orendorff, Leonora F . S. Tindall;
@@ -85,9 +81,5 @@ Contact me:
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joaobianchi@live.com)
 <br>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaobianchilite@gmail.com)
-<br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imbianchi/)
 <br>
-
-ℹ️ [Check my CV](https://imbianchi.github.io/imbianchi.dev) !
