@@ -1,9 +1,27 @@
 ### About João Paulo (JP) 🚀
 
-🧔‍♂️ Software developer building path to Blockchain, Linux & Cyber Security Specialist. Lifelong learning adept.<br>
+Software Developer - JS | Solidity | Solana | Rust<br>
+
+📅 Since 2017, evolved from a Front-end enthusiast into a versatile Full Stack Software Developer.<br>
+🚀 Took a few projects, delving into Node.js, React.js, React Native, WP, Laravel, Magento.<br>
+🧠 Conquered challenges like API authentication with Crypto, JWT. Dealt with ExpressJS, HapiJS, Hashing, Certificates, Plesk, Nginx, Apache. PostgreSQL, MariaDB, MySQL, MongoDB, Sequelize. Gitlab (CI/CD). NextJs, NestJS, jQuery.<br>
+🛍️ Ventured for a 1+ year as Scrum Master/Tech Lead.<br>
+🧠 Tackled Linux configurations, AWS, and Huawei Cloud migrations, and automated Magento store installations with Bash.<br>
+🛠️ Embarked as a Developer Tools Analyst, focusing on Github, ADO, and Azure.<br>
+🌐 Extended my skills to Windows Server, MSSQL, and developed internal tools using Python and Vue.js.<br>
+🔒 Successfully enhanced security and performance with Azure KV using cryptography (npm package).<br>
 👨‍🎓 Software Engineer student.<br>
 
-Sometimes drummer, sometimes gamer. Always a reader.<br>
+🤝 Open to exciting opportunities in web development focused in web3, and continuous learning.
+
+Transitioning to web3 universe learning Solidity, Solana and Rust.
+
+Lifelong learner.<br/>
+Building path to Blockchain, Linux & Cyber Security Specialist.<br/>
+
+E-mail me: joaobianchi@live.com<br/>
+https://imbianchi.dev<br/>
+
 Building the habit to contribute to Open Source. A believer of free knowledge.<br>
 Know something that I can collaborate with? Email-me! 📧<br>
 ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue)<br>
@@ -15,18 +33,33 @@ Hobbies:
 - Games;
 - Read;
 - Cinema/movies;
+- Drums
 - Barbecue with friends;
 
 Learning:
 - Rust;
 - Solana
 - Solidity
+- Java
+- C
 
 Reading:
-- Programming Rust: Fast, Safe Systems Development, 2nd Edition - O'Reilly. - by Jim Blandy, Jason Orendorff, Leonora F . S. Tindall;
 - The Rust Programming Language, 2nd Edition - No Startch Press . - by Carol Nichols, Steve Klabnik;
 - Rust in Action - Manning Publicashions - by Tim McNamara;
-- Linux Bible - Wiley - by Christopher Negus;
+- Pragmatic Thinking and Learning: Refactor Your Wetware - Illustrated - by Andy Hunt;
+
+Developing for fun:
+- [jlox - JAVA Interpreter](https://github.com/imbianchi/jlox)
+- [clox - C Interpreter](https://github.com/imbianchi/clox)
+- [rox - Rust Interpreter](https://github.com/imbianchi/rox)
+
+Bootcamps:
+- [Rust Bootcamp](https://github.com/imbianchi/rust-bootcamp-final-project)
+- [Solidity Bootcamp](https://github.com/imbianchi/solidity-bootcamp)
+
+Open Source Tools:
+- [NPM Package - KV Manager](https://github.com/imbianchi/kv-manager)
+- [Cargo crate - KV Manager](https://github.com/imbianchi/kv_manager)
 
 <br>
 Techs and frameworks that I worked with:
@@ -68,12 +101,12 @@ Languages:
 
 ![Rust](https://img.shields.io/badge/Rust-%23CC3300.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <br>
 <br>
 ## What I'm using
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=imbianchi&theme=blue-green)
+
 
 <br>
 Contact me:
