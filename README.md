@@ -2,31 +2,23 @@
 
 Software Developer - JS | Solidity | Solana | Rust<br>
 
-📅 Since 2017, evolved from a Front-end enthusiast into a versatile Full Stack Software Developer.<br>
-🚀 Took a few projects, delving into Node.js, React.js, React Native, WP, Laravel, Magento.<br>
-🧠 Conquered challenges like API authentication with Crypto, JWT. Dealt with ExpressJS, HapiJS, Hashing, Certificates, Plesk, Nginx, Apache. PostgreSQL, MariaDB, MySQL, MongoDB, Sequelize. Gitlab (CI/CD). NextJs, NestJS, jQuery.<br>
-🛍️ Ventured for a 1+ year as Scrum Master/Tech Lead.<br>
-🧠 Tackled Linux configurations, AWS, and Huawei Cloud migrations, and automated Magento store installations with Bash.<br>
+🚀 Crafted projects using Node.js, React.js, JSX, React Native, WP, Magento, NextJS & VueJS.<br>
+🧠 Conquered challenges like API authentication with Crypto, JWT. Dealt with ExpressJS, HapiJS,<br>
+Hash, Certificates, Plesk, Nginx, Apache. PostgreSQL, MariaDB, MySQL, MongoDB, Sequelize, KnexJS.<br>
+Gitlab (CI/CD). NestJS, jQuery. Tackled Linux configurations, AWS, Huawei Cloud & Bash.<br>
 🛠️ Embarked as a Developer Tools Analyst, focusing on Github, ADO, and Azure.<br>
-🌐 Extended my skills to Windows Server, MSSQL, and developed internal tools using Python and Vue.js.<br>
-🔒 Successfully enhanced security and performance with Azure KV using cryptography (npm package).<br>
-👨‍🎓 Software Engineer student.<br>
-
-🤝 Open to exciting opportunities in web development focused in web3, and continuous learning.
-
-Transitioning to web3 universe learning Solidity, Solana and Rust.
-
-Lifelong learner.<br/>
-Building path to Blockchain, Linux & Cyber Security Specialist.<br/>
-
-E-mail me: joaobianchi@live.com<br/>
-https://imbianchi.dev<br/>
-
-Building the habit to contribute to Open Source. A believer of free knowledge.<br>
-Know something that I can collaborate with? Email-me! 📧<br>
-![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue)<br>
-
-ℹ️ [Check my CV](https://imbianchi.github.io/imbianchi.dev) !
+🌐 Extended skills to Windows Server, MSSQL, Python and Vue.js.<br>
+🛍️ Ventured for a 1 year as Scrum Master/Tech Lead.<br>
+<br>
+🤝 Open to exciting opportunities in web development focused in web3, and continuous learning.<br>
+<br>
+Software Developer & Lifelong learner.<br>
+Building path to Web3, Cyber Security & Rust Specialist.<br>
+<br>
+📧 [E-mail me](mailto:joaobianchi@live.com)<br>
+🤙 [Call me](https://calendly.com/joaobianchi/quick-chat)<br>
+📎 [Check my CV](https://imbianchi.github.io/imbianchi.dev)<br>
+<br>
 
 Hobbies:
 - Coding;
