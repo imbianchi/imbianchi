@@ -1,6 +1,6 @@
 ### About João Paulo (JP) 🚀
 
-Software Developer - JS | Solidity | Solana | Rust<br>
+Software Developer - TS | Rust | Go
 
 🚀 Crafted projects using Node.js, React.js, JSX, React Native, WP, Magento, NextJS & VueJS.<br>
 🧠 Conquered challenges like API authentication with Crypto, JWT. Dealt with ExpressJS, HapiJS,<br>
@@ -10,10 +10,7 @@ Gitlab (CI/CD). NestJS, jQuery. Tackled Linux configurations, AWS, Huawei Cloud 
 🌐 Extended skills to Windows Server, MSSQL, Python and Vue.js.<br>
 🛍️ Ventured for a 1 year as Scrum Master/Tech Lead.<br>
 <br>
-🤝 Open to exciting opportunities in web development focused in web3, and continuous learning.<br>
-<br>
 Software Developer & Lifelong learner.<br>
-Building path to Web3, Cyber Security & Rust Specialist.<br>
 <br>
 📧 [E-mail me](mailto:joaobianchi@live.com)<br>
 🤙 [Call me](https://calendly.com/joaobianchi/quick-chat)<br>
@@ -30,10 +27,9 @@ Hobbies:
 
 Learning:
 - Rust;
-- Solana
-- Solidity
+- Go
+- Web3
 - Java
-- C
 
 Reading:
 - The Rust Programming Language, 2nd Edition - No Startch Press . - by Carol Nichols, Steve Klabnik;
@@ -44,10 +40,6 @@ Developing for fun:
 - [jlox - JAVA Interpreter](https://github.com/imbianchi/jlox)
 - [clox - C Interpreter](https://github.com/imbianchi/clox)
 - [rox - Rust Interpreter](https://github.com/imbianchi/rox)
-
-Bootcamps:
-- [Rust Bootcamp](https://github.com/imbianchi/rust-bootcamp-final-project)
-- [Solidity Bootcamp](https://github.com/imbianchi/solidity-bootcamp)
 
 Open Source Tools:
 - [NPM Package - KV Manager](https://github.com/imbianchi/kv-manager)
@@ -94,6 +86,8 @@ Languages:
 ![Rust](https://img.shields.io/badge/Rust-%23CC3300.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![GO](https://img.shields.io/badge/go-%233777BC.svg?style=for-the-badge&logo=go&logoColor=white)
+![TS](https://img.shields.io/badge/typescript-%233777BC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
 <br>
 ## What I'm using
