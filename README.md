@@ -1,6 +1,6 @@
 ### About João Paulo (JP) 🚀
 
-Software Developer - TS | Rust | Go
+Software Developer - TS | NodeJS | Rust
 
 🚀 Crafted projects using Node.js, React.js, JSX, React Native, WP, Magento, NextJS & VueJS.<br>
 🧠 Conquered challenges like API authentication with Crypto, JWT. Dealt with ExpressJS, HapiJS,<br>
@@ -8,13 +8,11 @@ Hash, Certificates, Plesk, Nginx, Apache. PostgreSQL, MariaDB, MySQL, MongoDB, S
 Gitlab (CI/CD). NestJS, jQuery. Tackled Linux configurations, AWS, Huawei Cloud & Bash.<br>
 🛠️ Embarked as a Developer Tools Analyst, focusing on Github, ADO, and Azure.<br>
 🌐 Extended skills to Windows Server, MSSQL, Python and Vue.js.<br>
-🛍️ Ventured for a 1 year as Scrum Master/Tech Lead.<br>
+🛍️ Ventured for one year as Scrum Master/Tech Lead.<br>
 <br>
 Software Developer & Lifelong learner.<br>
 <br>
 📧 [E-mail me](mailto:joaobianchi@live.com)<br>
-🤙 [Call me](https://calendly.com/joaobianchi/quick-chat)<br>
-📎 [Check my CV](https://imbianchi.github.io/imbianchi.dev)<br>
 <br>
 
 Hobbies:
@@ -26,8 +24,6 @@ Hobbies:
 - Barbecue with friends;
 
 Learning:
-- Rust;
-- Go
 - Web3
 - Java
 
@@ -52,7 +48,8 @@ Techs and frameworks that I worked with:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![RTK](https://img.shields.io/badge/rtk-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
@@ -85,8 +82,6 @@ Languages:
 
 ![Rust](https://img.shields.io/badge/Rust-%23CC3300.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![GO](https://img.shields.io/badge/go-%233777BC.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TS](https://img.shields.io/badge/typescript-%233777BC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
 <br>
