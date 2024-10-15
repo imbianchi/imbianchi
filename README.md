@@ -2,7 +2,7 @@
 
 Software Developer - TS | NodeJS | Rust
 
-🚀 Crafted projects using Node.js, React.js, JSX, React Native, WP, Magento, NextJS & VueJS.<br>
+🚀 Crafted projects using NodeJS, ReactJS, TSX, React Native, WP, Magento, NextJS & VueJS.<br>
 🧠 Conquered challenges like API authentication with Crypto, JWT. Dealt with ExpressJS, HapiJS,<br>
 Hash, Certificates, Plesk, Nginx, Apache. PostgreSQL, MariaDB, MySQL, MongoDB, Sequelize, KnexJS.<br>
 Gitlab (CI/CD). NestJS, jQuery. Tackled Linux configurations, AWS, Huawei Cloud & Bash.<br>
@@ -25,7 +25,6 @@ Hobbies:
 
 Learning:
 - Web3
-- Java
 
 Reading:
 - The Rust Programming Language, 2nd Edition - No Startch Press . - by Carol Nichols, Steve Klabnik;
