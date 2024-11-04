@@ -24,7 +24,8 @@ Hobbies:
 - Barbecue with friends;
 
 Learning:
-- Web3
+- Rust
+- Low Level Code
 
 Reading:
 - The Rust Programming Language, 2nd Edition - No Startch Press . - by Carol Nichols, Steve Klabnik;
