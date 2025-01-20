@@ -27,20 +27,6 @@ Learning:
 - Rust
 - Low Level Code
 
-Reading:
-- The Rust Programming Language, 2nd Edition - No Startch Press . - by Carol Nichols, Steve Klabnik;
-- Rust in Action - Manning Publicashions - by Tim McNamara;
-- Pragmatic Thinking and Learning: Refactor Your Wetware - Illustrated - by Andy Hunt;
-
-Developing for fun:
-- [jlox - JAVA Interpreter](https://github.com/imbianchi/jlox)
-- [clox - C Interpreter](https://github.com/imbianchi/clox)
-- [rox - Rust Interpreter](https://github.com/imbianchi/rox)
-
-Open Source Tools:
-- [NPM Package - KV Manager](https://github.com/imbianchi/kv-manager)
-- [Cargo crate - KV Manager](https://github.com/imbianchi/kv_manager)
-
 <br>
 Techs and frameworks that I worked with:
 <br><br>
