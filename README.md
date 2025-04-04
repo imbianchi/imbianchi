@@ -1,6 +1,6 @@
 ### About João Paulo (JP) 🚀
 
-Software Developer - TS | Rust
+Software Developer
 
 🚀 Crafted projects using NodeJS, ReactJS, TSX, React Native, WP, Magento, NextJS & VueJS.<br>
 🧠 Conquered challenges like API authentication with Crypto, JWT. Dealt with ExpressJS, HapiJS,<br>
@@ -26,6 +26,7 @@ Hobbies:
 Learning:
 - Rust
 - Low Level Code
+- Microservices & Distributed Systems
 
 <br>
 Techs and frameworks that I worked with:
