@@ -6,7 +6,7 @@ Software Developer
 🧠 Conquered challenges like API authentication with Crypto, JWT. Dealt with ExpressJS, HapiJS,<br>
 Hash, Certificates, Plesk, Nginx, Apache. PostgreSQL, MariaDB, MySQL, MongoDB, Sequelize, KnexJS.<br>
 Gitlab (CI/CD). NestJS, jQuery. Tackled Linux configurations, AWS, Huawei Cloud & Bash.<br>
-🛠️ Embarked as a Developer Tools Analyst, focusing on Github, ADO, and Azure.<br>
+🛠️ Embarked as a Software Developer Tools, focusing on Github, ADO, and Azure.<br>
 🌐 Extended skills to Windows Server, MSSQL, Python and Vue.js.<br>
 🛍️ Ventured for one year as Scrum Master/Tech Lead.<br>
 <br>
